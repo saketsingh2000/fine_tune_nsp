@@ -1,0 +1,99 @@
+context,agent_action
+User wants to know about gift wrapping options.,Explain available gift wrapping options and associated costs.
+User inquires about troubleshooting a hardware malfunction.,Advise on basic troubleshooting steps and suggest contacting User support for further assistance.
+User complains about a significant delay in receiving their order.,"Apologize for the delay, investigate the cause (e.g., backorder, shipping issues), and provide a revised estimated delivery timeframe."
+User inquires about software compatibility issues.,Suggest compatible software versions or offer alternative solutions.
+User complains that a product is not performing as advertised.,"Acknowledge the issue, offer troubleshooting steps or alternative solutions, and apologize for the product not meeting expectations."
+User forgot their username or password.,Guide the User through the password reset process.
+User inquires about product dimensions or weight.,Share product specifications as listed on the website.
+User is disappointed with the durability of a product and feels it doesn't match the price.,"Acknowledge the feedback, explain the product's warranty coverage."
+User asks a general question not related to specific products or services.,Provide a helpful answer or direct the User to a more appropriate resource.
+User received an incorrect item in their order.,"Apologize for the mistake, offer to send a replacement for the correct item, and explain the return process for the incorrect item."
+User experiences slow loading times on the website.,Offer troubleshooting tips like clearing cache or suggest contacting internet service provider.
+User complains about missing parts or components included with a product.,"Apologize for the oversight, offer to send the missing parts, or provide a partial refund if replacements are unavailable."
+User inquires about software updates and their benefits.,Explain the purpose of updates and encourage the User to install them for security and performance.
+User wants to make a suggestion for improvement.,Thank the User for their feedback and explain how suggestions are considered.
+User wants to know about warranty coverage for a malfunctioning device.,Direct User to warranty information and explain the repair or replacement process.
+User inquires about tax or duty charges associated with their order.,Explain estimated tax or duty charges based on their location and order details.
+User wants to unsubscribe from promotional emails.,Offer options to manage email preferences or complete the unsubscription process.
+User inquires about gift wrapping options for their order.,Explain available gift wrapping options and any associated fees.
+User received an order they didn't place and wants to report it.,"Thank the User for reporting the issue, investigate the source of the mistake, and assure them the situation will be resolved."
+User inquires about available troubleshooting guides or FAQs.,Direct User to relevant troubleshooting resources on the website.
+User wants to know about accepted payment methods.,List all available payment methods and any associated fees.
+User wants to close their account.,Explain any consequences of account closure and confirm the User's intent.
+User asks for user reviews or ratings for a specific product.,Direct User to product review section or provide a summary of User feedback.
+User inquires about restocking fees associated with product returns.,Explain restocking fees if applicable and any conditions that might trigger them.
+User wants to compare two similar products.,Highlight key differences and similarities between the two product options.
+User asks about product safety or usage precautions.,Direct User to safety instructions on the product page or provide a clear explanation.
+User inquires about career opportunities at the company.,Direct User to the careers page or provide information on how to apply for open positions.
+User needs to report a damaged item received in their order.,Guide the User through the damage reporting process and offer solutions like replacement or refund.
+User wants to know about combining multiple promotions on a single purchase.,Explain if combining promotions is allowed and provide any relevant restrictions.
+User inquires about international shipping restrictions or fees.,Explain international shipping restrictions and associated costs based on the User's location.
+User asks about product compatibility with another product.,Provide compatibility information based on product specifications.
+User wants to track the status of their order shipment.,Provide the User with a tracking link or access to order details for tracking information.
+User wants to know about estimated delivery times for a specific product.,"Provide estimated delivery time based on the product, shipping method, and User's location."
+User wants to know about system maintenance schedules.,Inform about upcoming maintenance periods and potential service disruptions.
+User wants to split their order into separate shipments.,Explain any additional fees and confirm if split shipment is possible.
+User feels the promotion they received is not relevant to their needs.,Offer personalized recommendations or suggest browsing other product categories.
+User encountered an error during checkout.,Identify the error and guide the User through troubleshooting steps.
+User wants to change their default payment method.,Guide the User through updating their default payment method in their account settings.
+User wants to know about upcoming company events or promotions.,Share information about upcoming events or promotions if available.
+User inquires about pausing or canceling their subscription.,Explain the process for pausing or canceling the subscription and any associated fees.
+User is experiencing difficulty downloading a file.,"Help identify the issue (e.g., slow internet, file size) and suggest solutions."
+User is dissatisfied with the overall quality of a product and wants a refund.,"Apologize for the inconvenience, explain the return and refund policy, and guide the User through the return process."
+User wants to know about different subscription plans available.,Explain plan features and pricing details for each subscription option.
+User complains that they haven't received any updates on their delayed order.,"Apologize for the lack of communication, actively track the order, and provide a new update with an estimated delivery timeframe."
+User asks for a clarification on a specific promotion.,Explain the promotion details and any eligibility requirements in clear and concise language.
+User expresses safety concerns about a product they purchased.,"Take the complaint seriously, investigate the issue, and offer solutions like product recalls or full refunds."
+User complains about missing items from their order.,"Investigate the missing items, apologize for the oversight, and offer to send replacements or provide a partial refund."
+"User inquires about company policies (e.g., returns, refunds).",Direct User to the relevant policy page or provide a clear explanation.
+User complains that the product they received is different from the product description online.,"Acknowledge the discrepancy, apologize for the confusion, and offer solutions like a full refund or exchange for the correct product."
+User complains about a malfunctioning product.,"Offer troubleshooting steps, guide the User through the warranty claim process, or offer a replacement if applicable."
+User needs help troubleshooting a printer issue.,"Guide the User through checking for paper jams, ink levels, or connectivity problems."
+User inquires about loyalty program points or rewards.,Explain how to view their loyalty program details and redeem rewards.
+User wants to leave a compliment about a specific employee.,Thank the User for their feedback and pass it on to the employee.
+User wants to know about free trial options for a subscription.,"Explain free trial availability, duration, and any limitations."
+User is concerned about a late shipment.,Track the package and provide updates on estimated delivery time.
+User wants to modify their order.,Confirm changes and update the order details.
+User wants to know if a specific product is included in a current promotion.,Verify if the product is eligible for the promotion and inform the User accordingly.
+User inquires about billing for their subscription.,Explain subscription billing details and provide options for managing payment methods.
+User feels frustrated due to the order delay and wants compensation.,"Acknowledge their frustration, apologize for the inconvenience, and offer options like a discount code, free shipping on their next order, etc."
+User inquires about accessing exclusive content or benefits associated with their subscription.,Guide the User on how to access exclusive content or benefits based on their subscription plan.
+User wants to know about data transfer options between devices.,Explain available data transfer methods and suggest tools or software for the transfer.
+User inquires about data backup and restore options.,Explain available backup methods and guide the User through the process.
+User inquires about a discount code they received.,Explain how to use the discount code at checkout and any applicable limitations.
+User inquires about the company's social responsibility initiatives.,Provide information about the company's social responsibility efforts or direct them to a dedicated webpage.
+User wants to update their billing information.,Provide instructions on how to update billing information securely.
+User inquires about loyalty program points earned during a promotion.,Explain how points are calculated and offer options for redeeming them.
+User complains that the tracking information for their order hasn't been updated in a while.,Investigate the tracking issue and provide an explanation or offer to contact the shipping carrier on the User's behalf.
+User inquires about different payment plans or financing options.,Explain available payment plans and eligibility requirements.
+User suspects a security breach on their account.,Advise on changing passwords and offer assistance with account security measures.
+User needs to change the delivery address for their order.,Explain if address changes are possible at this stage and guide the User through the process if applicable.
+User wants to cancel an order they recently placed but haven't received yet.,"Explain the cancellation process and any associated fees (e.g., restocking fee), and confirm the cancellation if desired."
+User inquires about gift card balance or redemption process.,Help User check their gift card balance and explain how to use it at checkout.
+User received a damaged item in their order.,"Apologize for the damage, offer options like a replacement or full refund, and guide the User through the return process for the damaged item."
+User wants to know if there's anything they can do to expedite their delayed order.,"Explain if expediting options are available (e.g., upgraded shipping) and guide the User through the process if applicable."
+User wants to dispute a charge on their credit card statement.,Provide instructions on how to initiate a dispute and offer assistance with the process.
+User wants to know if a product is available in a different color.,Check inventory and inform about availability of different color options.
+User wants to initiate a return for an unwanted item.,Provide instructions for initiating a return and explain the refund process.
+User wants to know about return policy for a specific product.,Explain the return policy and any applicable conditions for the product.
+User missed out on a promotion and wants to know if there are any similar offers upcoming.,Inform the User about upcoming promotions or suggest alternative products on sale.
+"User inquires about alternative solutions due to the order delay (e.g., cancel and reorder).","Explain cancellation and reordering options and any associated consequences (e.g., restocking fees)."
+User seems frustrated or angry about an issue.,"Acknowledge their frustration, apologize for any inconvenience, and offer solutions."
+User inquires about the return window for a product.,Explain the return policy and any time limitations for returning products.
+User wants to know how long it takes to receive a refund after a successful return.,Explain the estimated processing time for returns and refunds.
+User inquires about expedited shipping options and costs.,Explain available expedited shipping options and associated delivery timeframes and costs.
+User inquires about their order history.,Direct User to their online account for detailed order history.
+User needs help connecting a device to their Wi-Fi network.,Provide step-by-step instructions for Wi-Fi network setup.
+User inquires about the reason for their order's delayed status.,Explain the reason for the delay and offer updates on the order's progress.
+User forgot their subscription renewal date.,Inform the User about their renewal date and offer options to manage their subscription settings.
+User wants to upgrade or downgrade their current subscription plan.,Guide the User through the upgrade/downgrade process and explain any changes in features or costs.
+User wants to know about business hours or store locations.,"Provide contact information, website links, or suggest using a store locator tool."
+User complains about unexpected charges associated with their order.,"Explain the charges, apologize for any confusion, and offer to adjust the order or provide a refund if applicable."
+User inquires about upcoming sales or promotions for a specific product category.,Inform about upcoming promotions or suggest similar products currently on sale.
+User's app is not functioning properly.,Help diagnose the issue and suggest solutions like app restart or software update.
+User expresses appreciation for a positive experience.,Thank the User for their feedback and offer assistance if needed.
+User encounters an error message on the website.,Ask for the specific error message and provide troubleshooting steps.
+User inquires about a missing item in their order.,"Investigate the missing item and offer solutions (replacement, refund)."
+User asks about their account security features.,Explain account security measures and suggest enabling two-factor authentication.
+User didn't receive an order confirmation email.,Resend the order confirmation email and verify User's email address.
